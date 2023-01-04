@@ -1,0 +1,8 @@
+Dat je string oblika "3,9,13,4,42". Potrebno je pretvoriti ga u listu i za svaki element izracunati njegov kvadrat. Potom kvadrate tih elemenata spojiti nazad u string i ispisati u konzoli.
+
+Ulaz:
+
+string = "3,9,13,4,42"
+Izlaz:
+
+string= "9,81,169,16,1764"
